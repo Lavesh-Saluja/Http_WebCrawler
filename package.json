@@ -1,0 +1,23 @@
+{
+  "name": "http_webcrawler",
+  "version": "1.0.0",
+  "description": "A web Crawler",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lavesh-Saluja/Http_WebCrawler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lavesh-Saluja/Http_WebCrawler/issues"
+  },
+  "homepage": "https://github.com/Lavesh-Saluja/Http_WebCrawler#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
